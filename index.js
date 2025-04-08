@@ -1,2 +1,2 @@
 console.log("index")
-console.log("alternado"
+console.log("alternado")
